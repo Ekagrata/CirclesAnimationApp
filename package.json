@@ -1,0 +1,23 @@
+{
+  "name": "circlesanimapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ekagrata/CirclesAnimationApp.git"
+  },
+  "author": "ekagrata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ekagrata/CirclesAnimationApp/issues"
+  },
+  "homepage": "https://github.com/Ekagrata/CirclesAnimationApp#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1"
+  }
+}
